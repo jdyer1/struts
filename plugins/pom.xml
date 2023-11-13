@@ -43,10 +43,7 @@
         <module>json</module>
         <module>junit</module>
         <module>rest</module>
-        
-        <!-- TODO
-        <module>sitemesh</module-->
-        
+        <module>sitemesh</module>
         <module>spring</module>
         <module>testng</module>
         <module>tiles</module>
